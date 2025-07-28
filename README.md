@@ -26,7 +26,7 @@ Designed with simplicity, accuracy, and educational value in mind.
 - 📱 Phone: +91 8787230742  
 - 🌐 GitHub: [sinharea](https://github.com/sinharea)  
 - 🔗 LinkedIn: [Rea Sinha](https://linkedin.com/in/rea-sinha-a33a18356)  
-- 🧩 LeetCode: [sinharea](https://leetcode.com/u/sinharea/)
+- 🧩 LeetCode: [sinharea](https://leetcode.com/u/sinharea1008/)
 
 ## 🧩 Features
 ---
